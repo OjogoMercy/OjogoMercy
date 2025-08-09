@@ -1,15 +1,23 @@
 👋 Hello! I'm Mercy Ojogo
 I'm a Mobile App Developer with a passion for building intuitive and impactful applications. My tech journey has led me to explore both frontend and backend development, and I’m always excited to learn, grow, and collaborate.
 
-Currently Learning:
+Currently Learning: 
+
 .React Native for mobile development
+
 .TypeScript and advanced UI patterns
+
 .Backend integration with Firebase and Node.js
 
-🤝 Looking to Collaborate On
+
+🤝 Looking to Collaborate On:
+
 .Mobile applications with innovative features
+
 .Backend-powered apps involving API and database management
+
 .Open-source projects that help people learn and grow
+
 
 🚀 Let’s Connect and Build Something Impactful!
  Reach me at: mercyojogo@gmail.com 🔗 Connect on LinkedIn
