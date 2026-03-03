@@ -1,6 +1,6 @@
 👋 Hello! I'm Mercy Ojogo
 
-Mobile App Developer | React Native & TypeScript Specialist
+Mobile App Developer | React Native & Technical Specialist
 
 I am a Mobile App Developer focused on building intuitive, high-impact solutions. With a background in Computer Engineering and professional experience in agile environments, I specialize in creating seamless user experiences through clean UI design and robust mobile architecture
 
