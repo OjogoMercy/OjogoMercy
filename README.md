@@ -10,7 +10,12 @@ HealthCard (In Progress): A maternal and child health tracking app using React N
 
 ScanMe: A professional utility app featuring smart tagging, haptic feedback, and offline history management using Zustand.
 
+
 Internship at Cephas ICT Hub: Currently driving a 16% improvement in usability metrics through independent design refinements and core interface optimization.
+
+Worked on OGFIMS : an Agro based commerce application ,
+
+CeduGames(onGoing): Gaming application for young learners.
 
 
 Tech Stack & SkillsMobile:
